@@ -24,3 +24,4 @@ OpenNEL_Lite Plus Copyright (C) 2026 OpenNEL Plus Studio
 - 提供完整的源代码
 ```
 详细条款请查阅 [LICENSE](LICENSE) 文件。
+text build
